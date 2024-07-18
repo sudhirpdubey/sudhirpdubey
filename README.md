@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on innovative projects in the fields of digital transformation, data analytics, and personal finance applications for India and Singapore.
 - 📫 How to reach me: sudhir.p.dubey@gmail.com | LinkedIn: [Sudhir Dubey](https://www.linkedin.com/in/sudhirpdubey/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm passionate about cricket and exploring data science projects related to cricket statistics and the Indian TV soap 'Taarak Mehta Ka Ooltah Chashmah' (TMKOC).
+- ⚡ Fun fact: I'm passionate about cricket and exploring data science projects related to cricket statistics.
 
 <!---
 sudhirpdubey/sudhirpdubey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
